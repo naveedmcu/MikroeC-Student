@@ -1,0 +1,6 @@
+main
+	__CC2DW
+	Div_16x16_S
+		Div_16x16_S_L
+	dis_play
+		get_digit
